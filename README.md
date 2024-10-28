@@ -29,7 +29,7 @@ TELA - USUÁRIOS DO SISTEMA
 ![9 - Sistema - Usuários do Sistema](https://github.com/user-attachments/assets/0420cfbf-7097-4cb0-b81e-28502841c5d3)
 
 
-TELA - FAZER LOGOFF
+TELA - FAZENDO LOGOFF
 ![10 - Fazendo Logoff ](https://github.com/user-attachments/assets/518e44d4-61d0-478a-ab15-2f125d4a579c)
 
 
