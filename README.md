@@ -9,7 +9,7 @@ TELA - PRINCIPAL
 ![2 - Tela Principal](https://github.com/user-attachments/assets/e158d871-78d3-403f-9c3d-3d676d81cb77)
 
 
-TELA - ACESANDO MÓDULO RH
+TELA - ACESSANDO MÓDULO RH
 ![3 - Módulo Recursos Humanos](https://github.com/user-attachments/assets/db7aa685-8db3-48b0-9835-7b42988f8f55)
 
 
